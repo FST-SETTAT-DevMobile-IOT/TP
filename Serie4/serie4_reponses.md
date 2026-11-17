@@ -16,7 +16,7 @@
 
 ## Consignes de remplissage
 
-1. Lisez l'énoncé complet dans le PDF de la série (`serie1_future_async_await.pdf`). Les énoncés sont rappelés ici en abrégé.
+1. Lisez l'énoncé complet dans le PDF de la série (`serie4_future_async_await.pdf`). Les énoncés sont rappelés ici en abrégé.
 2. Répondez **uniquement** aux emplacements prévus : zones `> **Réponse :**`, blocs ```` ```dart ```` (code) et ```` ```text ```` (sortie console), cases des tableaux.
 3. Ne modifiez pas les titres ni les énoncés. N'ajoutez pas de captures d'écran : collez le texte.
 4. **Testez votre code** avant de le coller. Collez la sortie réelle, pas celle que vous imaginez.
